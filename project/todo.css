@@ -1,0 +1,32 @@
+#ulTasks li.done {
+  color: #6c757d;
+  text-decoration: line-through;
+}
+
+body{
+	background-color: black;
+}
+
+h1 {
+	font-size: 80px;
+	color: red;
+	
+}
+
+div label.inpNewTask {
+	  color: lawngreen;
+	  font-size: 20px;
+	  animation-name: spin 5s infinite;
+	  animation-timing-function: ease-in;
+}
+ 
+.list-group-item{
+	background-color: rgb(228, 250, 255);
+}
+
+
+body{
+	background: black;
+} 
+
+
